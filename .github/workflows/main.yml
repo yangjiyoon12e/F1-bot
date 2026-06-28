@@ -1,0 +1,35 @@
+name: F1 Document Bot
+
+on:
+  schedule:
+    - cron: '*/20 * * * *' # 20분마다 한 번씩 실행 (무료 범위 내 안전한 간격)
+  workflow_dispatch: # 내가 원할 때 수동으로 실행하는 버튼
+
+jobs:
+  run-bot:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # 봇이 마지막 문서 주소를 저장할 수 있도록 권한 부여
+
+    steps:
+      - name: 저장소 가져오기
+        uses: actions/checkout@v4
+
+      - name: 파이썬 설치하기
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 필요한 도구 설치하기
+        run: pip install requests beautifulsoup4 pypdf deep-translator
+
+      - name: F1 봇 실행하기 (새 문서 감시 및 번역)
+        run: python f1_bot.py
+
+      - name: 새 문서를 찾았다면 기록 저장하기
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add last_link.txt
+          git commit -m "마지막 확인 문서 업데이트" || exit 0
+          git push
