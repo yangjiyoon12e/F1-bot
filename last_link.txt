@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_6_-_alleged_abnormal_change_of_direction_by_car_30.pdf
-https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_infringement_-_sprint_deleted_lap_times.pdf
-https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_sprint_scrutineering.pdf
-https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_30_-_abnormal_change_of_direction.pdf
-https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_infringement_-_car_27_-_leaving_the_track_and_gaining_an_advantage.pdf
 https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_final_sprint_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_new_pu_elements_for_this_competition_0.pdf
 https://www.fia.com/system/files/decision-document/2026_british_grand_prix_-_summons_-_car_10_-_alleged_impeding_of_car_18.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_new
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_car_presentation_submissions.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_free_practice_1_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_summons_-_car_55_-_alleged_crossing_the_line_at_pit_entry.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_55_-_crossing_the_white_line_at_pit_entry.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_6_-_changes_to_pu_elements.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_18_-_change_to_pu_element.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_1_-_change_to_pu_element.pdf
