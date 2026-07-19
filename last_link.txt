@@ -1,7 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_visa.pdf
-https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_notes_-_pirelli_preview.pdf
-https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_timetable_v4.pdf
-https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_power_unit_information.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_post-race_checks_on_car_numbers_63_and_06_2026_british_gp.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_race_directors_competition_notes.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_emergency_exits_map_and_red_zone.pdf
@@ -48,3 +44,7 @@ https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_sum
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_decision_-_car_16_-_collision_with_car_81_in_turn_5.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_provisional_race_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_race_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_race_scrutineering.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_ferrari_-_unsafe_release_of_car_44.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_infringement_-_car_23_-_car_safety_lights_.pdf
+https://www.fia.com/system/files/decision-document/2026_belgian_grand_prix_-_final_race_classification.pdf
