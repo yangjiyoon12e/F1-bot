@@ -1,5 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_hungarian_grand_prix_-_provisional_qualifying_classification.pdf
-https://www.fia.com/system/files/decision-document/2026_hungarian_grand_prix_-_summons_-_car_44_-_alleged_impeding_of_car_81.pdf
 https://www.fia.com/system/files/decision-document/2026_hungarian_grand_prix_-_summons_-_car_81_-_alleged_impeding_by_car_44.pdf
 https://www.fia.com/system/files/decision-document/2026_hungarian_grand_prix_-_summons_-_car_12_-_alleged_yellow_flag_infringement.pdf
 https://www.fia.com/system/files/decision-document/2026_hungarian_grand_prix_-_summons_-_car_12_-_alleged_failure_to_follow_race_directors_instructions_sc2-sc1_time.pdf
@@ -48,3 +46,5 @@ https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infri
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_fp1_and_sprint_qualifying_scrutineering.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_final_sprint_qualifying_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_provisional_sprint_starting_grid.pdf
+https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_55_-_changes_made_during_parc_ferme.pdf
+https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_14_-_changes_made_during_parc_ferme.pdf
