@@ -1,6 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_race_directors_competition_notes.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_self_scrutineering.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_entry_list.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_car_presentation_submissions.pdf
@@ -48,3 +45,6 @@ https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infri
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_final_starting_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_41_-_overtaking_under_yellow_flags.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_43_-_overtaking_under_yellow_flags.pdf
+https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_provisional_race_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_43_-_failure_to_slow_for_yellow_flags.pdf
+https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_30_-_failure_to_follow_for_yellow_flags.pdf
