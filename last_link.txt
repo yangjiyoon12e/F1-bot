@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_final_sprint_starting_grid.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_55_-_starting_procedure_infringement.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_provisional_sprint_classification.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_summons_-_car_5_-_alleged_unsafe_release.pdf
-https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_77_-_failure_to_follow_race_directors_instructions_reaching_the_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_44_-_failure_to_follow_race_directors_instructions_reaching_the_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_3_-_failure_to_follow_race_directors_instructions_reaching_the_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_dutch_grand_prix_-_infringement_-_car_22_-_failure_to_follow_race_directors_instructions_reaching_the_grid.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_sel
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_entry_list.pdf
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition.pdf
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_1_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_2_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_corrected.pdf
+https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf
+https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_car_12_-_pit_lane_speeding.pdf
