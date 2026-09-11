@@ -1,6 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_new_pu_elements_for_this_competition.pdf
-https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_1_classification.pdf
-https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_free_practice_2_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_corrected.pdf
 https://www.fia.com/system/files/decision-document/2026_italian_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf
@@ -48,3 +45,6 @@ https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_fre
 https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf
 https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellows.pdf
 https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_car_23_-_leaving_the_track_and_re-joining_unsafely_.pdf
+https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_free_practice_2_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_spanish_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf
