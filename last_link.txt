@@ -1,6 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_race_directors_competition_notes_v2.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_competition_notes_-_pit_lane_v2.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_3_-_yellow_flag_infringement.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_sprint_qualifying_deleted_lap_times_yellow_flags.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_sprint_qualifying_sc2-sc1_times.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_sprint_qualifying_classification.pdf
@@ -48,3 +45,6 @@ https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_p1_and_p2_scrutineering.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_5_-_additional_changes_to_pu_elements.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_27_-_alleged_pit_lane_incident.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_6_-_driving_erratically.pdf
