@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_qualifying_deleted_lap_times_-_double_yellow.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_permission_to_start.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_decision_-_qualifying_sc2-sc1_times.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_27_-_impeding_of_car_55.pdf
-https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_final_qualifying_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_provisional_starting_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_14_-_pu_element_and_changes_made_during_parc_ferme.pdf
 https://www.fia.com/system/files/decision-document/2026_singapore_grand_prix_-_infringement_-_car_18_-_changes_made_during_parc_ferme.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_18_-_changes_made_during_parc_ferme.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_final_starting_grid.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_5_-_alleged_leaving_the_track_and_gaining_and_advantage.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_87_-_causing_a_collision.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_car_63_-_leaving_the_track_and_gaining_an_advantage.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_provisional_race_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_race_deleted_lap_times.pdf
