@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_power_unit_information.pdf
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_pu_elements_used_per_driver_up_to_now.pdf
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_self_scrutineering.pdf
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_car_presentation_submissions.pdf
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_entry_list.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_decision_-_car_63_-_alleged_forcing_another_driver_off_the_track.pdf
 https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_free_practice_2_classification.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringment_-_car_14_-_pit_lane_speeding_0.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_free_practice_2_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_fp1_and_fp2_scrutineering.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_5_-_covering_components.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_3_-_turn_14_incident_with_car_30_.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_turn_14_incident_with_car_3_.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_6_-_alleged_misconduct.pdf
