@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_united_states_grand_prix_-_championship_points.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_visa.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_pirelli_preview.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-race_inspections_on_car_number_63_2026_united_states_gp.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_timetable_v2.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_car_display_procedure.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_power_unit_information.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_competition_notes_-_circuit_map_pit_lane_drawing_and_emergency_exits_map.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_27_-_causing_a_collision.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_race_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_10_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_63_-_failure_to_attend_mandatory_post-race_commitments.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_10_-_failing_to_slow_under_yellow_flags.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_43_-_failing_to_slow_under_yellow_flags.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_final_race_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_championship_points.pdf
