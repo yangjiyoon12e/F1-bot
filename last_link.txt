@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_5_-_covering_components.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_3_-_turn_14_incident_with_car_30_.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_turn_14_incident_with_car_3_.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_6_-_alleged_misconduct.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_driver_change_tgr_haas_f1_team.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_revised_entry_list.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_curfew.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_post-qualifying_procedure.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_i
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_1_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_1_deleted_lap_times_-_double_yellow.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_free_practice_2_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_free_practice_2_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_race_director_notes_-_sc2_-_sc1_times.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_51_-_unnecessarily_impeding_of_car_16.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_fp1_and_fp2_scrutineering.pdf
