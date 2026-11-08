@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_p3_and_qualifying_scrutineering.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_technical_nonconformity.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_30_-_permission_to_start.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_final_qualifying_classification.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_starting_grid.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_race_directors_competition_notes_v2.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_parc_ferme_issues.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_30_-_changes_made_during_parc_ferme.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_t
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_fp3_and_qualifying_scrutineering.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_qualifying_classification.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_provisional_starting_grid.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_new_pu_elements_for_this_competition_2.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_41_-_changes_to_pu_elements.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_5_-_changes_to_pu_elements.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_parts_and_parameters_been_replaced_and_or_changed_during_parc_ferme.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_starting_grid.pdf
