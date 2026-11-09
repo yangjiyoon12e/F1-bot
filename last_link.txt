@@ -1,8 +1,3 @@
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_81_-_t2_incident_with_car_41.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_summons_-_car_41_-_t2_incident_with_car_81.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_27_-_causing_a_collision.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_provisional_race_classification.pdf
-https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_decision_-_car_10_-_alleged_leaving_the_track_and_gaining_an_advantage.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_63_-_failure_to_attend_mandatory_post-race_commitments.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_10_-_failing_to_slow_under_yellow_flags.pdf
 https://www.fia.com/system/files/decision-document/2026_mexico_city_grand_prix_-_infringement_-_car_43_-_failing_to_slow_under_yellow_flags.pdf
@@ -48,3 +43,8 @@ https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_s
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_87_-_alleged_unsafe_release.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_summons_-_car_16_-_alleged_unsafe_release_by_car_87.pdf
 https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_race_deleted_lap_times.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_87_-_unsafe_release.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_16_-_causing_a_collision.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_infringement_-_car_12_-_unsafe_release.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_final_race_classification.pdf
+https://www.fia.com/system/files/decision-document/2026_sao_paulo_grand_prix_-_championship_points.pdf
